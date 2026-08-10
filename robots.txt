@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-z2ifbb.salamcuan.online/sitemap.xml
